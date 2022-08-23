@@ -1,2 +1,2 @@
 что-то там
-i am master commit
+i am a change from conflict branch
